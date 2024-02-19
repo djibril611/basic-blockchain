@@ -81,4 +81,5 @@ int main() {
 
     return 0;
 }
-//cd "/Users/djibrilkonate/Documents/Project 0/" && g++ -std=c++11 Basic_Blockchain.cpp -o Basic_Blockchain && "/Users/djibrilkonate/Documents/Project 0/"Basic_Blockchain
+//cd "/Users/yourusername/folder/filename/" && g++ -std=c++11 Basic_Blockchain.cpp -o Basic_Blockchain && "/Users/djibrilkonate/Documents/Project 0/"Basic_Blockchain
+//its to use c++ 11 
